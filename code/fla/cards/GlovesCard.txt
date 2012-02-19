@@ -1,0 +1,4 @@
+Gloves Card File
+
+Symbols: 
+CardGloves (has a movie clip called " Gloves " in it)

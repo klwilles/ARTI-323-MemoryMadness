@@ -1,0 +1,4 @@
+Suit Card File
+
+Symbols: 
+CardSuit (has a movie clip called " Suit " in it)

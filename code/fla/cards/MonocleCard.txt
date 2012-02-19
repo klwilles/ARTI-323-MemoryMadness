@@ -1,0 +1,4 @@
+Monocle Card File
+
+Symbols: 
+CardMonocle (has a movie clip called " Monocle " in it)

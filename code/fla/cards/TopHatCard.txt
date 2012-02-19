@@ -1,0 +1,4 @@
+Top Hat Card File
+
+Symbols: 
+CardTopHat (has a movie clip called " Top Hat " in it)

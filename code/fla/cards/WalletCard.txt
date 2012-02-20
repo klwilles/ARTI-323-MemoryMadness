@@ -1,0 +1,4 @@
+Wallet Card File
+
+Symbols: 
+CardWallet (has a movie clip called " Wallet " in it)

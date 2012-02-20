@@ -1,0 +1,4 @@
+Tie Card File
+
+Symbols: 
+CardTie (has a movie clip called " Tie " in it)

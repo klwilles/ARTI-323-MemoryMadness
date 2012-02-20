@@ -1,6 +1,4 @@
 Card Back File
 
 Symbols: 
-CardBack
-
-Instance Hierarchy: 
+CardBack (has a movie clip called " VectorDoor " in it)

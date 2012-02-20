@@ -1,0 +1,4 @@
+Shoes Card File
+
+Symbols: 
+CardShoes (has a movie clip called " Shoes " in it)

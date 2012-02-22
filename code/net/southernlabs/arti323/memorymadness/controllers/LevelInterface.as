@@ -1,0 +1,1 @@
+﻿package  net.southernlabs.arti323.memorymadness.controllers {		public interface LevelInterface extends ControllerInterface {		// Interface methods:		public function handleMenuClick(item:String):void;		public function compareCards(card1:CardInterface, card2:CardInterface):Boolean;		public function updateScore():void;	}	}

@@ -1,0 +1,1 @@
+﻿package  net.southernlabs.arti323.memorymadness.controllers {		public interface ControllerInterface {		// Interface methods:		public function start():void;		public function finish():void;	}	}

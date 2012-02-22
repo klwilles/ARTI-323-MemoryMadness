@@ -1,0 +1,1 @@
+﻿package net.southernlabs.arti323.memorymadness.config {		public static class GameConfig {				public static const boardWidth:uint = 6;		public static const boardHeight:uint = 6;		private function Config() {			// constructor code		}	}	}

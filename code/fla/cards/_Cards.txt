@@ -1,0 +1,3 @@
+Layout for all cards
+
+first frame is for cardback and then the rest of the 12 are for the other cards

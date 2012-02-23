@@ -1,0 +1,1 @@
+﻿package net.southernlabs.arti323.memorymadness.controllers.base {		public interface MenuInterface extends ControllerInterface {			function handleMenuClick(item:String):void;	}	}

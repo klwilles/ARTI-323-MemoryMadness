@@ -1,0 +1,1 @@
+﻿package net.southernlabs.arti323.memorymadness.controllers.base {		import flash.display.MovieClip;		public interface ControllerInterface {				function setRenderContainer(m:MovieClip):void;		function run():void;		function end():void;	}	}

@@ -1,0 +1,1 @@
+﻿package net.southernlabs.arti323.memorymadness.views.base {	public interface MenuInterface {		// Interface methods:				function end():void;	}	}

@@ -1,0 +1,10 @@
+The list file is what contains the remaining list of things to find. 
+
+Hierarchy
+
+-List
+	-Instance: ListItem
+		-Dynamic Text Box
+
+	-Frame Edge
+	-Whatever else

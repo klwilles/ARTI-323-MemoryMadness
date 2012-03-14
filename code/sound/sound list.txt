@@ -1,12 +1,9 @@
 A list of sound associated with objects within the game:
 
-button clicks
 screen slide
 intro background music
 background music
-card clicks
-card flips open
-card flips closed
+door flips open and close
 objects attaching to manchild
 manchild's approval
 manchild's disapproval

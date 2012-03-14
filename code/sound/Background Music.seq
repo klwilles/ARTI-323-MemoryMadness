@@ -1,0 +1,1954 @@
+
+<Project LastDefaultTrackNum="1" apptag="SFP" platform="MAC" version="101">
+
+  <ExportPath>/Network/Servers/svad-matisse.svad.southern.edu/home/students/Janice Bowles/Documents/ARTI-323-MemoryMadness/code/sound/IntroBackgroundMusic.wav</ExportPath>
+
+  <SoundTrackVolume>1.0000000000</SoundTrackVolume>
+
+  <LeftEdgeTime>0.0000000000</LeftEdgeTime>
+
+  <AdditionalInfo1></AdditionalInfo1>
+
+  <FileList>
+    <File>
+      <CueID>54702</CueID>
+      <CueName>Cartoon Capers</CueName>
+      <RequireLayers>true</RequireLayers>
+      <Length>202.1580625000</Length>
+    </File>
+    <File>
+      <CueID>50810</CueID>
+      <CueName>Up And Coming</CueName>
+      <RequireLayers>true</RequireLayers>
+      <Length>202.1300416667</Length>
+    </File>
+    <File>
+      <CueID>54708</CueID>
+      <CueName>Old Neighborhood</CueName>
+      <RequireLayers>true</RequireLayers>
+      <Length>247.3581875000</Length>
+    </File>
+  </FileList>
+
+  <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="" selected="false" solo="false">
+    <usage>Group</usage>
+    <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+      <usage>Param</usage>
+      <usage>Volume</usage>
+      <Param selected="false">
+        <start>0.0000000000</start>
+        <value>1.0000000000</value>
+      </Param>
+    </SeqTrack>
+    <SeqTrack class="Edit" enabled="true" locked="false" name="" selected="false" solo="false">
+      <usage>Markers</usage>
+    </SeqTrack>
+    <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="Track 1" selected="false" solo="false">
+      <usage>Audio</usage>
+      <ViewExtras>
+        <ExpandTrack>2</ExpandTrack>
+      </ViewExtras>
+      <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+        <usage>Param</usage>
+        <usage>Volume</usage>
+        <Param selected="false">
+          <start>0.0000000000</start>
+          <value>1.0000000000</value>
+        </Param>
+      </SeqTrack>
+    </SeqTrack>
+    <SeqTrack class="Sequence" enabled="false" hitFile="false" locked="false" name="Up And Coming" selected="false" solo="false">
+      <usage>Group</usage>
+      <ViewExtras>
+        <ExpandTrack>2</ExpandTrack>
+      </ViewExtras>
+      <Element enabled="true" name="Idea flow" selected="false" type="SmartBlock">
+        <start>0.0000000000</start>
+        <length>183.6676643993</length>
+        <duration>183.6676643993</duration>
+        <flags>80</flags>
+        <SoundFileIndex>2</SoundFileIndex>
+        <SeqTrack class="Mix" enabled="true" locked="false" name="" selected="false">
+          <usage>Mix</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <MixIndex>0</MixIndex>
+            <TransDuration>0.0000000000</TransDuration>
+            <Name>Full</Name>
+            <Mix name="Full">
+              <V>1.00</V>
+              <V>1.00</V>
+              <V>1.00</V>
+              <V>1.00</V>
+            </Mix>
+          </Param>
+          <SoundFileIndex>2</SoundFileIndex>
+        </SeqTrack>
+        <VersionIndex>0</VersionIndex>
+      </Element>
+      <SoundFileIndex>2</SoundFileIndex>
+      <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+        <usage>Param</usage>
+        <usage>Volume</usage>
+        <Param selected="false">
+          <start>0.0000000000</start>
+          <value>1.0000000000</value>
+        </Param>
+      </SeqTrack>
+      <SeqTrack class="Sequence" enabled="false" hitFile="false" locked="false" name="Drums" selected="false" solo="false">
+        <usage>Audio</usage>
+        <ViewExtras>
+          <ExpandTrack>2</ExpandTrack>
+        </ViewExtras>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>0.0000000000</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>5.9301587299</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>11.8422675738</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>17.7790929704</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Casual" selected="false" type="ElementBlock">
+          <start>23.6991609977</start>
+          <length>5.9251020408</length>
+          <duration>5.9251020408</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>71.1097959183</RangeStart>
+          <RangeEnd>77.0348979591</RangeEnd>
+          <SmartIndex>13</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 1" selected="false" type="ElementBlock">
+          <start>29.6242630385</start>
+          <length>5.9373696147</length>
+          <duration>5.9373696147</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>77.0348979585</RangeStart>
+          <RangeEnd>82.9722675732</RangeEnd>
+          <SmartIndex>14</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 2" selected="false" type="ElementBlock">
+          <start>35.5616326532</start>
+          <length>5.9174149660</length>
+          <duration>5.9174149660</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>82.9722675736</RangeStart>
+          <RangeEnd>88.8896825396</RangeEnd>
+          <SmartIndex>15</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 3" selected="false" type="ElementBlock">
+          <start>41.4790476192</start>
+          <length>5.8958730158</length>
+          <duration>5.8958730158</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>88.8896825396</RangeStart>
+          <RangeEnd>94.7855555554</RangeEnd>
+          <SmartIndex>16</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 4" selected="false" type="ElementBlock">
+          <start>47.3749206350</start>
+          <length>5.9396598641</length>
+          <duration>5.9396598641</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>94.7855555553</RangeStart>
+          <RangeEnd>100.7252154194</RangeEnd>
+          <SmartIndex>17</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 5" selected="false" type="ElementBlock">
+          <start>53.3145804991</start>
+          <length>5.9362358275</length>
+          <duration>5.9362358275</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>100.7252154196</RangeStart>
+          <RangeEnd>106.6614512471</RangeEnd>
+          <SmartIndex>18</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 6" selected="false" type="ElementBlock">
+          <start>59.2508163266</start>
+          <length>5.9399092970</length>
+          <duration>5.9399092970</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>106.6614512472</RangeStart>
+          <RangeEnd>112.6013605442</RangeEnd>
+          <SmartIndex>19</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 7" selected="false" type="ElementBlock">
+          <start>65.1907256236</start>
+          <length>5.9162358276</length>
+          <duration>5.9162358276</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>112.6013605441</RangeStart>
+          <RangeEnd>118.5175963717</RangeEnd>
+          <SmartIndex>20</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 8" selected="false" type="ElementBlock">
+          <start>71.1069614512</start>
+          <length>5.9116553288</length>
+          <duration>5.9116553288</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>118.5175963718</RangeStart>
+          <RangeEnd>124.4292517006</RangeEnd>
+          <SmartIndex>21</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 9" selected="false" type="ElementBlock">
+          <start>77.0186167800</start>
+          <length>5.9175510204</length>
+          <duration>5.9175510204</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>124.4292517006</RangeStart>
+          <RangeEnd>130.3468027210</RangeEnd>
+          <SmartIndex>22</SmartIndex>
+        </Element>
+        <Element enabled="true" name="On course" selected="false" type="ElementBlock">
+          <start>82.9361678004</start>
+          <length>5.9464172337</length>
+          <duration>5.9464172337</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>130.3468027209</RangeStart>
+          <RangeEnd>136.2932199546</RangeEnd>
+          <SmartIndex>23</SmartIndex>
+        </Element>
+        <Element enabled="true" name="on course 1" selected="false" type="ElementBlock">
+          <start>88.8825850341</start>
+          <length>5.8920181406</length>
+          <duration>5.8920181406</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>136.2932199546</RangeStart>
+          <RangeEnd>142.1852380952</RangeEnd>
+          <SmartIndex>24</SmartIndex>
+        </Element>
+        <Element enabled="true" name="on course 2" selected="false" type="ElementBlock">
+          <start>94.7746031747</start>
+          <length>5.9355328799</length>
+          <duration>5.9355328799</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>142.1852380951</RangeStart>
+          <RangeEnd>148.1207709750</RangeEnd>
+          <SmartIndex>25</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 4" selected="false" type="ElementBlock">
+          <start>100.7101360546</start>
+          <length>5.9367573696</length>
+          <duration>5.9367573696</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>23.6936961450</RangeStart>
+          <RangeEnd>29.6304535146</RangeEnd>
+          <SmartIndex>5</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 5" selected="false" type="ElementBlock">
+          <start>106.6468934242</start>
+          <length>5.9328798186</length>
+          <duration>5.9328798186</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>29.6304535146</RangeStart>
+          <RangeEnd>35.5633333332</RangeEnd>
+          <SmartIndex>6</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 6" selected="false" type="ElementBlock">
+          <start>112.5797732428</start>
+          <length>5.9137641724</length>
+          <duration>5.9137641724</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>35.5633333332</RangeStart>
+          <RangeEnd>41.4770975056</RangeEnd>
+          <SmartIndex>7</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 7" selected="false" type="ElementBlock">
+          <start>118.4935374152</start>
+          <length>5.9335374149</length>
+          <duration>5.9335374149</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>41.4770975056</RangeStart>
+          <RangeEnd>47.4106349205</RangeEnd>
+          <SmartIndex>8</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>124.4270748301</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>130.3572335600</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>136.2693424039</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>142.2061678005</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>148.1262358278</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>154.0563945577</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>159.9685034016</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>165.9053287982</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>171.8253968255</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>177.7555555554</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.1</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <SoundFileIndex>2.1</SoundFileIndex>
+        <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+          <usage>Param</usage>
+          <usage>Volume</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <value>1.0000000000</value>
+          </Param>
+          <Param selected="false">
+            <start>183.6576643993</start>
+            <value>1.0000000000</value>
+          </Param>
+        </SeqTrack>
+      </SeqTrack>
+      <SeqTrack class="Sequence" enabled="false" hitFile="false" locked="false" name="Bass" selected="false" solo="false">
+        <usage>Audio</usage>
+        <ViewExtras>
+          <ExpandTrack>2</ExpandTrack>
+        </ViewExtras>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>0.0000000000</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>5.9301587299</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>11.8422675738</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>17.7790929704</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Casual" selected="false" type="ElementBlock">
+          <start>23.6991609977</start>
+          <length>5.9251020408</length>
+          <duration>5.9251020408</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>71.1097959183</RangeStart>
+          <RangeEnd>77.0348979591</RangeEnd>
+          <SmartIndex>13</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 1" selected="false" type="ElementBlock">
+          <start>29.6242630385</start>
+          <length>5.9373696147</length>
+          <duration>5.9373696147</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>77.0348979585</RangeStart>
+          <RangeEnd>82.9722675732</RangeEnd>
+          <SmartIndex>14</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 2" selected="false" type="ElementBlock">
+          <start>35.5616326532</start>
+          <length>5.9174149660</length>
+          <duration>5.9174149660</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>82.9722675736</RangeStart>
+          <RangeEnd>88.8896825396</RangeEnd>
+          <SmartIndex>15</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 3" selected="false" type="ElementBlock">
+          <start>41.4790476192</start>
+          <length>5.8958730158</length>
+          <duration>5.8958730158</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>88.8896825396</RangeStart>
+          <RangeEnd>94.7855555554</RangeEnd>
+          <SmartIndex>16</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 4" selected="false" type="ElementBlock">
+          <start>47.3749206350</start>
+          <length>5.9396598641</length>
+          <duration>5.9396598641</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>94.7855555553</RangeStart>
+          <RangeEnd>100.7252154194</RangeEnd>
+          <SmartIndex>17</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 5" selected="false" type="ElementBlock">
+          <start>53.3145804991</start>
+          <length>5.9362358275</length>
+          <duration>5.9362358275</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>100.7252154196</RangeStart>
+          <RangeEnd>106.6614512471</RangeEnd>
+          <SmartIndex>18</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 6" selected="false" type="ElementBlock">
+          <start>59.2508163266</start>
+          <length>5.9399092970</length>
+          <duration>5.9399092970</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>106.6614512472</RangeStart>
+          <RangeEnd>112.6013605442</RangeEnd>
+          <SmartIndex>19</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 7" selected="false" type="ElementBlock">
+          <start>65.1907256236</start>
+          <length>5.9162358276</length>
+          <duration>5.9162358276</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>112.6013605441</RangeStart>
+          <RangeEnd>118.5175963717</RangeEnd>
+          <SmartIndex>20</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 8" selected="false" type="ElementBlock">
+          <start>71.1069614512</start>
+          <length>5.9116553288</length>
+          <duration>5.9116553288</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>118.5175963718</RangeStart>
+          <RangeEnd>124.4292517006</RangeEnd>
+          <SmartIndex>21</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 9" selected="false" type="ElementBlock">
+          <start>77.0186167800</start>
+          <length>5.9175510204</length>
+          <duration>5.9175510204</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>124.4292517006</RangeStart>
+          <RangeEnd>130.3468027210</RangeEnd>
+          <SmartIndex>22</SmartIndex>
+        </Element>
+        <Element enabled="true" name="On course" selected="false" type="ElementBlock">
+          <start>82.9361678004</start>
+          <length>5.9464172337</length>
+          <duration>5.9464172337</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>130.3468027209</RangeStart>
+          <RangeEnd>136.2932199546</RangeEnd>
+          <SmartIndex>23</SmartIndex>
+        </Element>
+        <Element enabled="true" name="on course 1" selected="false" type="ElementBlock">
+          <start>88.8825850341</start>
+          <length>5.8920181406</length>
+          <duration>5.8920181406</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>136.2932199546</RangeStart>
+          <RangeEnd>142.1852380952</RangeEnd>
+          <SmartIndex>24</SmartIndex>
+        </Element>
+        <Element enabled="true" name="on course 2" selected="false" type="ElementBlock">
+          <start>94.7746031747</start>
+          <length>5.9355328799</length>
+          <duration>5.9355328799</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>142.1852380951</RangeStart>
+          <RangeEnd>148.1207709750</RangeEnd>
+          <SmartIndex>25</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 4" selected="false" type="ElementBlock">
+          <start>100.7101360546</start>
+          <length>5.9367573696</length>
+          <duration>5.9367573696</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>23.6936961450</RangeStart>
+          <RangeEnd>29.6304535146</RangeEnd>
+          <SmartIndex>5</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 5" selected="false" type="ElementBlock">
+          <start>106.6468934242</start>
+          <length>5.9328798186</length>
+          <duration>5.9328798186</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>29.6304535146</RangeStart>
+          <RangeEnd>35.5633333332</RangeEnd>
+          <SmartIndex>6</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 6" selected="false" type="ElementBlock">
+          <start>112.5797732428</start>
+          <length>5.9137641724</length>
+          <duration>5.9137641724</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>35.5633333332</RangeStart>
+          <RangeEnd>41.4770975056</RangeEnd>
+          <SmartIndex>7</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 7" selected="false" type="ElementBlock">
+          <start>118.4935374152</start>
+          <length>5.9335374149</length>
+          <duration>5.9335374149</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>41.4770975056</RangeStart>
+          <RangeEnd>47.4106349205</RangeEnd>
+          <SmartIndex>8</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>124.4270748301</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>130.3572335600</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>136.2693424039</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>142.2061678005</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>148.1262358278</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>154.0563945577</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>159.9685034016</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>165.9053287982</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>171.8253968255</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>177.7555555554</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.2</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <SoundFileIndex>2.2</SoundFileIndex>
+        <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+          <usage>Param</usage>
+          <usage>Volume</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <value>1.0000000000</value>
+          </Param>
+          <Param selected="false">
+            <start>183.6576643993</start>
+            <value>1.0000000000</value>
+          </Param>
+        </SeqTrack>
+      </SeqTrack>
+      <SeqTrack class="Sequence" enabled="false" hitFile="false" locked="false" name="Keys" selected="false" solo="false">
+        <usage>Audio</usage>
+        <ViewExtras>
+          <ExpandTrack>2</ExpandTrack>
+        </ViewExtras>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>0.0000000000</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>5.9301587299</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>11.8422675738</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>17.7790929704</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Casual" selected="false" type="ElementBlock">
+          <start>23.6991609977</start>
+          <length>5.9251020408</length>
+          <duration>5.9251020408</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>71.1097959183</RangeStart>
+          <RangeEnd>77.0348979591</RangeEnd>
+          <SmartIndex>13</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 1" selected="false" type="ElementBlock">
+          <start>29.6242630385</start>
+          <length>5.9373696147</length>
+          <duration>5.9373696147</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>77.0348979585</RangeStart>
+          <RangeEnd>82.9722675732</RangeEnd>
+          <SmartIndex>14</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 2" selected="false" type="ElementBlock">
+          <start>35.5616326532</start>
+          <length>5.9174149660</length>
+          <duration>5.9174149660</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>82.9722675736</RangeStart>
+          <RangeEnd>88.8896825396</RangeEnd>
+          <SmartIndex>15</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 3" selected="false" type="ElementBlock">
+          <start>41.4790476192</start>
+          <length>5.8958730158</length>
+          <duration>5.8958730158</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>88.8896825396</RangeStart>
+          <RangeEnd>94.7855555554</RangeEnd>
+          <SmartIndex>16</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 4" selected="false" type="ElementBlock">
+          <start>47.3749206350</start>
+          <length>5.9396598641</length>
+          <duration>5.9396598641</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>94.7855555553</RangeStart>
+          <RangeEnd>100.7252154194</RangeEnd>
+          <SmartIndex>17</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 5" selected="false" type="ElementBlock">
+          <start>53.3145804991</start>
+          <length>5.9362358275</length>
+          <duration>5.9362358275</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>100.7252154196</RangeStart>
+          <RangeEnd>106.6614512471</RangeEnd>
+          <SmartIndex>18</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 6" selected="false" type="ElementBlock">
+          <start>59.2508163266</start>
+          <length>5.9399092970</length>
+          <duration>5.9399092970</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>106.6614512472</RangeStart>
+          <RangeEnd>112.6013605442</RangeEnd>
+          <SmartIndex>19</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 7" selected="false" type="ElementBlock">
+          <start>65.1907256236</start>
+          <length>5.9162358276</length>
+          <duration>5.9162358276</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>112.6013605441</RangeStart>
+          <RangeEnd>118.5175963717</RangeEnd>
+          <SmartIndex>20</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 8" selected="false" type="ElementBlock">
+          <start>71.1069614512</start>
+          <length>5.9116553288</length>
+          <duration>5.9116553288</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>118.5175963718</RangeStart>
+          <RangeEnd>124.4292517006</RangeEnd>
+          <SmartIndex>21</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 9" selected="false" type="ElementBlock">
+          <start>77.0186167800</start>
+          <length>5.9175510204</length>
+          <duration>5.9175510204</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>124.4292517006</RangeStart>
+          <RangeEnd>130.3468027210</RangeEnd>
+          <SmartIndex>22</SmartIndex>
+        </Element>
+        <Element enabled="true" name="On course" selected="false" type="ElementBlock">
+          <start>82.9361678004</start>
+          <length>5.9464172337</length>
+          <duration>5.9464172337</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>130.3468027209</RangeStart>
+          <RangeEnd>136.2932199546</RangeEnd>
+          <SmartIndex>23</SmartIndex>
+        </Element>
+        <Element enabled="true" name="on course 1" selected="false" type="ElementBlock">
+          <start>88.8825850341</start>
+          <length>5.8920181406</length>
+          <duration>5.8920181406</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>136.2932199546</RangeStart>
+          <RangeEnd>142.1852380952</RangeEnd>
+          <SmartIndex>24</SmartIndex>
+        </Element>
+        <Element enabled="true" name="on course 2" selected="false" type="ElementBlock">
+          <start>94.7746031747</start>
+          <length>5.9355328799</length>
+          <duration>5.9355328799</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>142.1852380951</RangeStart>
+          <RangeEnd>148.1207709750</RangeEnd>
+          <SmartIndex>25</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 4" selected="false" type="ElementBlock">
+          <start>100.7101360546</start>
+          <length>5.9367573696</length>
+          <duration>5.9367573696</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>23.6936961450</RangeStart>
+          <RangeEnd>29.6304535146</RangeEnd>
+          <SmartIndex>5</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 5" selected="false" type="ElementBlock">
+          <start>106.6468934242</start>
+          <length>5.9328798186</length>
+          <duration>5.9328798186</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>29.6304535146</RangeStart>
+          <RangeEnd>35.5633333332</RangeEnd>
+          <SmartIndex>6</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 6" selected="false" type="ElementBlock">
+          <start>112.5797732428</start>
+          <length>5.9137641724</length>
+          <duration>5.9137641724</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>35.5633333332</RangeStart>
+          <RangeEnd>41.4770975056</RangeEnd>
+          <SmartIndex>7</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 7" selected="false" type="ElementBlock">
+          <start>118.4935374152</start>
+          <length>5.9335374149</length>
+          <duration>5.9335374149</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>41.4770975056</RangeStart>
+          <RangeEnd>47.4106349205</RangeEnd>
+          <SmartIndex>8</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>124.4270748301</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>130.3572335600</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>136.2693424039</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>142.2061678005</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>148.1262358278</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>154.0563945577</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>159.9685034016</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>165.9053287982</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>171.8253968255</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>177.7555555554</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.3</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <SoundFileIndex>2.3</SoundFileIndex>
+        <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+          <usage>Param</usage>
+          <usage>Volume</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <value>1.0000000000</value>
+          </Param>
+          <Param selected="false">
+            <start>183.6576643993</start>
+            <value>1.0000000000</value>
+          </Param>
+        </SeqTrack>
+      </SeqTrack>
+      <SeqTrack class="Sequence" enabled="false" hitFile="false" locked="false" name="Piano" selected="false" solo="false">
+        <usage>Audio</usage>
+        <ViewExtras>
+          <ExpandTrack>2</ExpandTrack>
+        </ViewExtras>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>0.0000000000</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>5.9301587299</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>11.8422675738</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>17.7790929704</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Casual" selected="false" type="ElementBlock">
+          <start>23.6991609977</start>
+          <length>5.9251020408</length>
+          <duration>5.9251020408</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>71.1097959183</RangeStart>
+          <RangeEnd>77.0348979591</RangeEnd>
+          <SmartIndex>13</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 1" selected="false" type="ElementBlock">
+          <start>29.6242630385</start>
+          <length>5.9373696147</length>
+          <duration>5.9373696147</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>77.0348979585</RangeStart>
+          <RangeEnd>82.9722675732</RangeEnd>
+          <SmartIndex>14</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 2" selected="false" type="ElementBlock">
+          <start>35.5616326532</start>
+          <length>5.9174149660</length>
+          <duration>5.9174149660</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>82.9722675736</RangeStart>
+          <RangeEnd>88.8896825396</RangeEnd>
+          <SmartIndex>15</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 3" selected="false" type="ElementBlock">
+          <start>41.4790476192</start>
+          <length>5.8958730158</length>
+          <duration>5.8958730158</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>88.8896825396</RangeStart>
+          <RangeEnd>94.7855555554</RangeEnd>
+          <SmartIndex>16</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 4" selected="false" type="ElementBlock">
+          <start>47.3749206350</start>
+          <length>5.9396598641</length>
+          <duration>5.9396598641</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>94.7855555553</RangeStart>
+          <RangeEnd>100.7252154194</RangeEnd>
+          <SmartIndex>17</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 5" selected="false" type="ElementBlock">
+          <start>53.3145804991</start>
+          <length>5.9362358275</length>
+          <duration>5.9362358275</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>100.7252154196</RangeStart>
+          <RangeEnd>106.6614512471</RangeEnd>
+          <SmartIndex>18</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 6" selected="false" type="ElementBlock">
+          <start>59.2508163266</start>
+          <length>5.9399092970</length>
+          <duration>5.9399092970</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>106.6614512472</RangeStart>
+          <RangeEnd>112.6013605442</RangeEnd>
+          <SmartIndex>19</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 7" selected="false" type="ElementBlock">
+          <start>65.1907256236</start>
+          <length>5.9162358276</length>
+          <duration>5.9162358276</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>112.6013605441</RangeStart>
+          <RangeEnd>118.5175963717</RangeEnd>
+          <SmartIndex>20</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 8" selected="false" type="ElementBlock">
+          <start>71.1069614512</start>
+          <length>5.9116553288</length>
+          <duration>5.9116553288</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>118.5175963718</RangeStart>
+          <RangeEnd>124.4292517006</RangeEnd>
+          <SmartIndex>21</SmartIndex>
+        </Element>
+        <Element enabled="true" name="casual 9" selected="false" type="ElementBlock">
+          <start>77.0186167800</start>
+          <length>5.9175510204</length>
+          <duration>5.9175510204</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>124.4292517006</RangeStart>
+          <RangeEnd>130.3468027210</RangeEnd>
+          <SmartIndex>22</SmartIndex>
+        </Element>
+        <Element enabled="true" name="On course" selected="false" type="ElementBlock">
+          <start>82.9361678004</start>
+          <length>5.9464172337</length>
+          <duration>5.9464172337</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>130.3468027209</RangeStart>
+          <RangeEnd>136.2932199546</RangeEnd>
+          <SmartIndex>23</SmartIndex>
+        </Element>
+        <Element enabled="true" name="on course 2" selected="false" type="ElementBlock">
+          <start>94.7746031747</start>
+          <length>5.9355328799</length>
+          <duration>5.9355328799</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>142.1852380951</RangeStart>
+          <RangeEnd>148.1207709750</RangeEnd>
+          <SmartIndex>25</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 4" selected="false" type="ElementBlock">
+          <start>100.7101360546</start>
+          <length>5.9367573696</length>
+          <duration>5.9367573696</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>23.6936961450</RangeStart>
+          <RangeEnd>29.6304535146</RangeEnd>
+          <SmartIndex>5</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 5" selected="false" type="ElementBlock">
+          <start>106.6468934242</start>
+          <length>5.9328798186</length>
+          <duration>5.9328798186</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>29.6304535146</RangeStart>
+          <RangeEnd>35.5633333332</RangeEnd>
+          <SmartIndex>6</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 6" selected="false" type="ElementBlock">
+          <start>112.5797732428</start>
+          <length>5.9137641724</length>
+          <duration>5.9137641724</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>35.5633333332</RangeStart>
+          <RangeEnd>41.4770975056</RangeEnd>
+          <SmartIndex>7</SmartIndex>
+        </Element>
+        <Element enabled="true" name="pools 7" selected="false" type="ElementBlock">
+          <start>118.4935374152</start>
+          <length>5.9335374149</length>
+          <duration>5.9335374149</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>41.4770975056</RangeStart>
+          <RangeEnd>47.4106349205</RangeEnd>
+          <SmartIndex>8</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>124.4270748301</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>130.3572335600</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>136.2693424039</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>142.2061678005</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>148.1262358278</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>154.0563945577</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 2" selected="false" type="ElementBlock">
+          <start>159.9685034016</start>
+          <length>5.9368253966</length>
+          <duration>5.9368253966</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>59.2529024944</RangeStart>
+          <RangeEnd>65.1897278910</RangeEnd>
+          <SmartIndex>11</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 3" selected="false" type="ElementBlock">
+          <start>165.9053287982</start>
+          <length>5.9200680273</length>
+          <duration>5.9200680273</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>65.1897278909</RangeStart>
+          <RangeEnd>71.1097959182</RangeEnd>
+          <SmartIndex>12</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Idea flow" selected="false" type="ElementBlock">
+          <start>171.8253968255</start>
+          <length>5.9301587299</length>
+          <duration>5.9301587299</duration>
+          <flags>16</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>47.4106349208</RangeStart>
+          <RangeEnd>53.3407936507</RangeEnd>
+          <SmartIndex>9</SmartIndex>
+        </Element>
+        <Element enabled="true" name="idea flow 1" selected="false" type="ElementBlock">
+          <start>177.7555555554</start>
+          <length>5.9121088439</length>
+          <duration>5.9121088439</duration>
+          <flags>0</flags>
+          <SoundFileIndex>2.4</SoundFileIndex>
+          <RangeStart>53.3407936504</RangeStart>
+          <RangeEnd>59.2529024943</RangeEnd>
+          <SmartIndex>10</SmartIndex>
+        </Element>
+        <SoundFileIndex>2.4</SoundFileIndex>
+        <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+          <usage>Param</usage>
+          <usage>Volume</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <value>1.0000000000</value>
+          </Param>
+          <Param selected="false">
+            <start>183.6576643993</start>
+            <value>1.0000000000</value>
+          </Param>
+        </SeqTrack>
+      </SeqTrack>
+    </SeqTrack>
+    <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="Old Neighborhood" selected="true" solo="false">
+      <usage>Group</usage>
+      <ViewExtras>
+        <ExpandTrack>2</ExpandTrack>
+      </ViewExtras>
+      <Element enabled="true" name="Swing set" selected="true" type="SmartBlock">
+        <start>0.0000000000</start>
+        <length>34.6464583333</length>
+        <duration>34.6464583333</duration>
+        <flags>80</flags>
+        <SoundFileIndex>3</SoundFileIndex>
+        <SeqTrack class="Mix" enabled="true" locked="false" name="" selected="false">
+          <usage>Mix</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <MixIndex>0</MixIndex>
+            <TransDuration>0.0000000000</TransDuration>
+            <Name>Full</Name>
+            <Mix name="Full">
+              <V>1.00</V>
+              <V>1.00</V>
+              <V>1.00</V>
+              <V>1.00</V>
+              <V>1.00</V>
+              <V>1.00</V>
+            </Mix>
+          </Param>
+          <SoundFileIndex>3</SoundFileIndex>
+        </SeqTrack>
+        <VersionIndex>0</VersionIndex>
+      </Element>
+      <SoundFileIndex>3</SoundFileIndex>
+      <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+        <usage>Param</usage>
+        <usage>Volume</usage>
+        <Param selected="false">
+          <start>0.0000000000</start>
+          <value>1.0000000000</value>
+        </Param>
+      </SeqTrack>
+      <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="Drums" selected="false" solo="false">
+        <usage>Audio</usage>
+        <Element enabled="true" name="Swing set" selected="false" type="ElementBlock">
+          <start>0.0000000000</start>
+          <length>3.4660833333</length>
+          <duration>3.4660833333</duration>
+          <flags>16</flags>
+          <SoundFileIndex>3.1</SoundFileIndex>
+          <RangeStart>0.0000000000</RangeStart>
+          <RangeEnd>3.4660833333</RangeEnd>
+          <SmartIndex>1</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 1" selected="false" type="ElementBlock">
+          <start>3.4660833333</start>
+          <length>3.4438541667</length>
+          <duration>3.4438541667</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.1</SoundFileIndex>
+          <RangeStart>3.4660833333</RangeStart>
+          <RangeEnd>6.9099375000</RangeEnd>
+          <SmartIndex>2</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 2" selected="false" type="ElementBlock">
+          <start>6.9099375000</start>
+          <length>3.4528750000</length>
+          <duration>3.4528750000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.1</SoundFileIndex>
+          <RangeStart>6.9099375000</RangeStart>
+          <RangeEnd>10.3628125000</RangeEnd>
+          <SmartIndex>3</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 3" selected="false" type="ElementBlock">
+          <start>10.3628125000</start>
+          <length>3.4926458333</length>
+          <duration>3.4926458333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.1</SoundFileIndex>
+          <RangeStart>10.3628125000</RangeStart>
+          <RangeEnd>13.8554583333</RangeEnd>
+          <SmartIndex>4</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 4" selected="false" type="ElementBlock">
+          <start>13.8554583333</start>
+          <length>3.4603541667</length>
+          <duration>3.4603541667</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.1</SoundFileIndex>
+          <RangeStart>13.8554583333</RangeStart>
+          <RangeEnd>17.3158125000</RangeEnd>
+          <SmartIndex>5</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 5" selected="false" type="ElementBlock">
+          <start>17.3158125000</start>
+          <length>3.4536458333</length>
+          <duration>3.4536458333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.1</SoundFileIndex>
+          <RangeStart>17.3158125000</RangeStart>
+          <RangeEnd>20.7694583333</RangeEnd>
+          <SmartIndex>6</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 6" selected="false" type="ElementBlock">
+          <start>20.7694583333</start>
+          <length>3.4608125000</length>
+          <duration>3.4608125000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.1</SoundFileIndex>
+          <RangeStart>20.7694583333</RangeStart>
+          <RangeEnd>24.2302708333</RangeEnd>
+          <SmartIndex>7</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 7" selected="false" type="ElementBlock">
+          <start>24.2302708333</start>
+          <length>3.4833125000</length>
+          <duration>3.4833125000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.1</SoundFileIndex>
+          <RangeStart>24.2302708333</RangeStart>
+          <RangeEnd>27.7135833333</RangeEnd>
+          <SmartIndex>8</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Sunset" selected="false" type="ElementBlock">
+          <start>27.7135833333</start>
+          <length>3.4566666667</length>
+          <duration>3.4566666667</duration>
+          <flags>16</flags>
+          <SoundFileIndex>3.1</SoundFileIndex>
+          <RangeStart>110.7802291667</RangeStart>
+          <RangeEnd>114.2368958334</RangeEnd>
+          <SmartIndex>33</SmartIndex>
+        </Element>
+        <Element enabled="true" name="sunset 3" selected="false" type="ElementBlock">
+          <start>31.1702500000</start>
+          <length>3.4762083333</length>
+          <duration>3.4762083333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.1</SoundFileIndex>
+          <RangeStart>121.1450208334</RangeStart>
+          <RangeEnd>124.6212291667</RangeEnd>
+          <SmartIndex>36</SmartIndex>
+        </Element>
+        <SoundFileIndex>3.1</SoundFileIndex>
+        <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+          <usage>Param</usage>
+          <usage>Volume</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <value>1.0000000000</value>
+          </Param>
+          <Param selected="false">
+            <start>34.6364583333</start>
+            <value>1.0000000000</value>
+          </Param>
+        </SeqTrack>
+      </SeqTrack>
+      <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="Bass" selected="false" solo="false">
+        <usage>Audio</usage>
+        <Element enabled="true" name="Swing set" selected="false" type="ElementBlock">
+          <start>0.0000000000</start>
+          <length>3.4660833333</length>
+          <duration>3.4660833333</duration>
+          <flags>16</flags>
+          <SoundFileIndex>3.2</SoundFileIndex>
+          <RangeStart>0.0000000000</RangeStart>
+          <RangeEnd>3.4660833333</RangeEnd>
+          <SmartIndex>1</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 1" selected="false" type="ElementBlock">
+          <start>3.4660833333</start>
+          <length>3.4438541667</length>
+          <duration>3.4438541667</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.2</SoundFileIndex>
+          <RangeStart>3.4660833333</RangeStart>
+          <RangeEnd>6.9099375000</RangeEnd>
+          <SmartIndex>2</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 2" selected="false" type="ElementBlock">
+          <start>6.9099375000</start>
+          <length>3.4528750000</length>
+          <duration>3.4528750000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.2</SoundFileIndex>
+          <RangeStart>6.9099375000</RangeStart>
+          <RangeEnd>10.3628125000</RangeEnd>
+          <SmartIndex>3</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 3" selected="false" type="ElementBlock">
+          <start>10.3628125000</start>
+          <length>3.4926458333</length>
+          <duration>3.4926458333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.2</SoundFileIndex>
+          <RangeStart>10.3628125000</RangeStart>
+          <RangeEnd>13.8554583333</RangeEnd>
+          <SmartIndex>4</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 4" selected="false" type="ElementBlock">
+          <start>13.8554583333</start>
+          <length>3.4603541667</length>
+          <duration>3.4603541667</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.2</SoundFileIndex>
+          <RangeStart>13.8554583333</RangeStart>
+          <RangeEnd>17.3158125000</RangeEnd>
+          <SmartIndex>5</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 5" selected="false" type="ElementBlock">
+          <start>17.3158125000</start>
+          <length>3.4536458333</length>
+          <duration>3.4536458333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.2</SoundFileIndex>
+          <RangeStart>17.3158125000</RangeStart>
+          <RangeEnd>20.7694583333</RangeEnd>
+          <SmartIndex>6</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 6" selected="false" type="ElementBlock">
+          <start>20.7694583333</start>
+          <length>3.4608125000</length>
+          <duration>3.4608125000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.2</SoundFileIndex>
+          <RangeStart>20.7694583333</RangeStart>
+          <RangeEnd>24.2302708333</RangeEnd>
+          <SmartIndex>7</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 7" selected="false" type="ElementBlock">
+          <start>24.2302708333</start>
+          <length>3.4833125000</length>
+          <duration>3.4833125000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.2</SoundFileIndex>
+          <RangeStart>24.2302708333</RangeStart>
+          <RangeEnd>27.7135833333</RangeEnd>
+          <SmartIndex>8</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Sunset" selected="false" type="ElementBlock">
+          <start>27.7135833333</start>
+          <length>3.4566666667</length>
+          <duration>3.4566666667</duration>
+          <flags>16</flags>
+          <SoundFileIndex>3.2</SoundFileIndex>
+          <RangeStart>110.7802291667</RangeStart>
+          <RangeEnd>114.2368958334</RangeEnd>
+          <SmartIndex>33</SmartIndex>
+        </Element>
+        <Element enabled="true" name="sunset 3" selected="false" type="ElementBlock">
+          <start>31.1702500000</start>
+          <length>3.4762083333</length>
+          <duration>3.4762083333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.2</SoundFileIndex>
+          <RangeStart>121.1450208334</RangeStart>
+          <RangeEnd>124.6212291667</RangeEnd>
+          <SmartIndex>36</SmartIndex>
+        </Element>
+        <SoundFileIndex>3.2</SoundFileIndex>
+        <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+          <usage>Param</usage>
+          <usage>Volume</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <value>1.0000000000</value>
+          </Param>
+          <Param selected="false">
+            <start>34.6364583333</start>
+            <value>1.0000000000</value>
+          </Param>
+        </SeqTrack>
+      </SeqTrack>
+      <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="Guitar" selected="false" solo="false">
+        <usage>Audio</usage>
+        <Element enabled="true" name="Swing set" selected="false" type="ElementBlock">
+          <start>0.0000000000</start>
+          <length>3.4660833333</length>
+          <duration>3.4660833333</duration>
+          <flags>16</flags>
+          <SoundFileIndex>3.3</SoundFileIndex>
+          <RangeStart>0.0000000000</RangeStart>
+          <RangeEnd>3.4660833333</RangeEnd>
+          <SmartIndex>1</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 1" selected="false" type="ElementBlock">
+          <start>3.4660833333</start>
+          <length>3.4438541667</length>
+          <duration>3.4438541667</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.3</SoundFileIndex>
+          <RangeStart>3.4660833333</RangeStart>
+          <RangeEnd>6.9099375000</RangeEnd>
+          <SmartIndex>2</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 2" selected="false" type="ElementBlock">
+          <start>6.9099375000</start>
+          <length>3.4528750000</length>
+          <duration>3.4528750000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.3</SoundFileIndex>
+          <RangeStart>6.9099375000</RangeStart>
+          <RangeEnd>10.3628125000</RangeEnd>
+          <SmartIndex>3</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 3" selected="false" type="ElementBlock">
+          <start>10.3628125000</start>
+          <length>3.4926458333</length>
+          <duration>3.4926458333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.3</SoundFileIndex>
+          <RangeStart>10.3628125000</RangeStart>
+          <RangeEnd>13.8554583333</RangeEnd>
+          <SmartIndex>4</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 4" selected="false" type="ElementBlock">
+          <start>13.8554583333</start>
+          <length>3.4603541667</length>
+          <duration>3.4603541667</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.3</SoundFileIndex>
+          <RangeStart>13.8554583333</RangeStart>
+          <RangeEnd>17.3158125000</RangeEnd>
+          <SmartIndex>5</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 5" selected="false" type="ElementBlock">
+          <start>17.3158125000</start>
+          <length>3.4536458333</length>
+          <duration>3.4536458333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.3</SoundFileIndex>
+          <RangeStart>17.3158125000</RangeStart>
+          <RangeEnd>20.7694583333</RangeEnd>
+          <SmartIndex>6</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 6" selected="false" type="ElementBlock">
+          <start>20.7694583333</start>
+          <length>3.4608125000</length>
+          <duration>3.4608125000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.3</SoundFileIndex>
+          <RangeStart>20.7694583333</RangeStart>
+          <RangeEnd>24.2302708333</RangeEnd>
+          <SmartIndex>7</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 7" selected="false" type="ElementBlock">
+          <start>24.2302708333</start>
+          <length>3.4833125000</length>
+          <duration>3.4833125000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.3</SoundFileIndex>
+          <RangeStart>24.2302708333</RangeStart>
+          <RangeEnd>27.7135833333</RangeEnd>
+          <SmartIndex>8</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Sunset" selected="false" type="ElementBlock">
+          <start>27.7135833333</start>
+          <length>3.4566666667</length>
+          <duration>3.4566666667</duration>
+          <flags>16</flags>
+          <SoundFileIndex>3.3</SoundFileIndex>
+          <RangeStart>110.7802291667</RangeStart>
+          <RangeEnd>114.2368958334</RangeEnd>
+          <SmartIndex>33</SmartIndex>
+        </Element>
+        <Element enabled="true" name="sunset 3" selected="false" type="ElementBlock">
+          <start>31.1702500000</start>
+          <length>3.4762083333</length>
+          <duration>3.4762083333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.3</SoundFileIndex>
+          <RangeStart>121.1450208334</RangeStart>
+          <RangeEnd>124.6212291667</RangeEnd>
+          <SmartIndex>36</SmartIndex>
+        </Element>
+        <SoundFileIndex>3.3</SoundFileIndex>
+        <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+          <usage>Param</usage>
+          <usage>Volume</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <value>1.0000000000</value>
+          </Param>
+          <Param selected="false">
+            <start>34.6364583333</start>
+            <value>1.0000000000</value>
+          </Param>
+        </SeqTrack>
+      </SeqTrack>
+      <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="Strings" selected="false" solo="false">
+        <usage>Audio</usage>
+        <SoundFileIndex>3.4</SoundFileIndex>
+        <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+          <usage>Param</usage>
+          <usage>Volume</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <value>1.0000000000</value>
+          </Param>
+          <Param selected="false">
+            <start>34.6364583333</start>
+            <value>1.0000000000</value>
+          </Param>
+        </SeqTrack>
+      </SeqTrack>
+      <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="Piano" selected="false" solo="false">
+        <usage>Audio</usage>
+        <Element enabled="true" name="Sunset" selected="false" type="ElementBlock">
+          <start>27.7135833333</start>
+          <length>3.4566666667</length>
+          <duration>3.4566666667</duration>
+          <flags>16</flags>
+          <SoundFileIndex>3.5</SoundFileIndex>
+          <RangeStart>110.7802291667</RangeStart>
+          <RangeEnd>114.2368958334</RangeEnd>
+          <SmartIndex>33</SmartIndex>
+        </Element>
+        <Element enabled="true" name="sunset 3" selected="false" type="ElementBlock">
+          <start>31.1702500000</start>
+          <length>3.4762083333</length>
+          <duration>3.4762083333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.5</SoundFileIndex>
+          <RangeStart>121.1450208334</RangeStart>
+          <RangeEnd>124.6212291667</RangeEnd>
+          <SmartIndex>36</SmartIndex>
+        </Element>
+        <SoundFileIndex>3.5</SoundFileIndex>
+        <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+          <usage>Param</usage>
+          <usage>Volume</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <value>1.0000000000</value>
+          </Param>
+          <Param selected="false">
+            <start>34.6364583333</start>
+            <value>1.0000000000</value>
+          </Param>
+        </SeqTrack>
+      </SeqTrack>
+      <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="Celeste" selected="false" solo="false">
+        <usage>Audio</usage>
+        <Element enabled="true" name="Swing set" selected="false" type="ElementBlock">
+          <start>0.0000000000</start>
+          <length>3.4660833333</length>
+          <duration>3.4660833333</duration>
+          <flags>16</flags>
+          <SoundFileIndex>3.6</SoundFileIndex>
+          <RangeStart>0.0000000000</RangeStart>
+          <RangeEnd>3.4660833333</RangeEnd>
+          <SmartIndex>1</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 1" selected="false" type="ElementBlock">
+          <start>3.4660833333</start>
+          <length>3.4438541667</length>
+          <duration>3.4438541667</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.6</SoundFileIndex>
+          <RangeStart>3.4660833333</RangeStart>
+          <RangeEnd>6.9099375000</RangeEnd>
+          <SmartIndex>2</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 2" selected="false" type="ElementBlock">
+          <start>6.9099375000</start>
+          <length>3.4528750000</length>
+          <duration>3.4528750000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.6</SoundFileIndex>
+          <RangeStart>6.9099375000</RangeStart>
+          <RangeEnd>10.3628125000</RangeEnd>
+          <SmartIndex>3</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 3" selected="false" type="ElementBlock">
+          <start>10.3628125000</start>
+          <length>3.4926458333</length>
+          <duration>3.4926458333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.6</SoundFileIndex>
+          <RangeStart>10.3628125000</RangeStart>
+          <RangeEnd>13.8554583333</RangeEnd>
+          <SmartIndex>4</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 4" selected="false" type="ElementBlock">
+          <start>13.8554583333</start>
+          <length>3.4603541667</length>
+          <duration>3.4603541667</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.6</SoundFileIndex>
+          <RangeStart>13.8554583333</RangeStart>
+          <RangeEnd>17.3158125000</RangeEnd>
+          <SmartIndex>5</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 5" selected="false" type="ElementBlock">
+          <start>17.3158125000</start>
+          <length>3.4536458333</length>
+          <duration>3.4536458333</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.6</SoundFileIndex>
+          <RangeStart>17.3158125000</RangeStart>
+          <RangeEnd>20.7694583333</RangeEnd>
+          <SmartIndex>6</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 6" selected="false" type="ElementBlock">
+          <start>20.7694583333</start>
+          <length>3.4608125000</length>
+          <duration>3.4608125000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.6</SoundFileIndex>
+          <RangeStart>20.7694583333</RangeStart>
+          <RangeEnd>24.2302708333</RangeEnd>
+          <SmartIndex>7</SmartIndex>
+        </Element>
+        <Element enabled="true" name="swing set 7" selected="false" type="ElementBlock">
+          <start>24.2302708333</start>
+          <length>3.4833125000</length>
+          <duration>3.4833125000</duration>
+          <flags>0</flags>
+          <SoundFileIndex>3.6</SoundFileIndex>
+          <RangeStart>24.2302708333</RangeStart>
+          <RangeEnd>27.7135833333</RangeEnd>
+          <SmartIndex>8</SmartIndex>
+        </Element>
+        <Element enabled="true" name="Sunset" selected="false" type="ElementBlock">
+          <start>27.7135833333</start>
+          <length>3.4566666667</length>
+          <duration>3.4566666667</duration>
+          <flags>16</flags>
+          <SoundFileIndex>3.6</SoundFileIndex>
+          <RangeStart>110.7802291667</RangeStart>
+          <RangeEnd>114.2368958334</RangeEnd>
+          <SmartIndex>33</SmartIndex>
+        </Element>
+        <SoundFileIndex>3.6</SoundFileIndex>
+        <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+          <usage>Param</usage>
+          <usage>Volume</usage>
+          <Param selected="false">
+            <start>0.0000000000</start>
+            <value>1.0000000000</value>
+          </Param>
+          <Param selected="false">
+            <start>34.6364583333</start>
+            <value>1.0000000000</value>
+          </Param>
+        </SeqTrack>
+      </SeqTrack>
+    </SeqTrack>
+  </SeqTrack>
+
+</Project>

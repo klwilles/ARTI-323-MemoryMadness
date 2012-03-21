@@ -1,0 +1,74 @@
+
+<Project LastDefaultTrackNum="1" apptag="SFP" platform="MAC" version="101">
+
+  <ExportPath>/Network/Servers/svad-matisse.svad.southern.edu/home/students/Janice Bowles/Documents/ARTI-323-MemoryMadness/code/sound/Door Close.wav</ExportPath>
+
+  <SoundTrackVolume>1.0000000000</SoundTrackVolume>
+
+  <LeftEdgeTime>0.0000000000</LeftEdgeTime>
+
+  <AdditionalInfo1></AdditionalInfo1>
+
+  <FileList>
+    <File>
+      <URL>/Network/Servers/svad-matisse.svad.southern.edu/home/students/Janice Bowles/Documents/ARTI-323-MemoryMadness/code/sound/17 Door,Metal Large Metal Door Closing 1.aiff</URL>
+      <Filename>17 Door,Metal Large Metal Door Closing 1.aiff</Filename>
+      <Length>19.8666666667</Length>
+    </File>
+  </FileList>
+
+  <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="" selected="false" solo="false">
+    <usage>Group</usage>
+    <ViewExtras>
+      <ProjectZoom>100</ProjectZoom>
+    </ViewExtras>
+    <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+      <usage>Param</usage>
+      <usage>Volume</usage>
+      <Param selected="false">
+        <start>0.0000000000</start>
+        <value>1.0000000000</value>
+      </Param>
+    </SeqTrack>
+    <SeqTrack class="Edit" enabled="true" locked="false" name="" selected="false" solo="false">
+      <usage>Markers</usage>
+    </SeqTrack>
+    <SeqTrack class="Sequence" enabled="true" hitFile="false" locked="false" name="17 Door,Metal Large Metal Door Closing 1.aiff" selected="true" solo="false">
+      <usage>Audio</usage>
+      <ViewExtras>
+        <ExpandTrack>2</ExpandTrack>
+        <ShowVolume>true</ShowVolume>
+      </ViewExtras>
+      <Element enabled="true" name="17 Door,Metal Large Metal Door Closing 1.aiff" selected="false" type="ElementBlock">
+        <start>0.0000000000</start>
+        <length>0.9773242630</length>
+        <duration>0.9773242630</duration>
+        <flags>0</flags>
+        <SoundFileIndex>1</SoundFileIndex>
+        <RangeStart>10.1753514739</RangeStart>
+        <RangeEnd>11.1526757370</RangeEnd>
+        <SmartIndex>0</SmartIndex>
+      </Element>
+      <SeqTrack class="Param" enabled="true" locked="false" name="" selected="false">
+        <usage>Param</usage>
+        <usage>Volume</usage>
+        <ViewExtras>
+          <ExpandTrack>2</ExpandTrack>
+        </ViewExtras>
+        <Param selected="false">
+          <start>0.0000000000</start>
+          <value>1.0000000000</value>
+        </Param>
+        <Param selected="false">
+          <start>0.7641723356</start>
+          <value>1.0000000000</value>
+        </Param>
+        <Param selected="false">
+          <start>0.9727891156</start>
+          <value>0.0000000000</value>
+        </Param>
+      </SeqTrack>
+    </SeqTrack>
+  </SeqTrack>
+
+</Project>

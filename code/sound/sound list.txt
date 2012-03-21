@@ -1,0 +1,9 @@
+A list of sound associated with objects within the game:
+
+screen slide
+intro background music
+background music
+door flips open and close
+objects attaching to manchild
+manchild's approval
+manchild's disapproval

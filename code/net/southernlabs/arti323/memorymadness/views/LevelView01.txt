@@ -1,0 +1,12 @@
+feather pen 2 +
+broken watch 0 +
+cane 1 +
+gloves 3
+shoes 7 ~
+tie 9 +
+wallet 11
+suit 8 +
+keys 4 +
+brush 6
+hat 10 +
+monocle 5 +

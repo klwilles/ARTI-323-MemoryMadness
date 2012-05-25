@@ -17,6 +17,6 @@ If you'd like to add more levels, a database and more, let me know.
 
 ![Preloading screen](http://www.kenwilles.com/images/resources/memory-madness01.jpg)
 
-![Intro screen](http://www.kenwilles.com/images/resources/memory-madness01.jpg)
+![Intro screen](http://www.kenwilles.com/images/resources/memory-madness02.jpg)
 
-![Game screen](http://www.kenwilles.com/images/resources/memory-madness01.jpg)
+![Game screen](http://www.kenwilles.com/images/resources/memory-madness03.jpg)

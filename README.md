@@ -7,9 +7,9 @@ You may play the latest version of the Flash game by downloading the playables z
 ## Credits:
 
 * **Tyler Fishell:** matching card logic, animated character logic, animation and design for character 
-* **Darren Case:** Scene design and button programming
-* **Janice Bowles:** Card design and button programming
-* **Ken Willes:** Framework setup and programming, project management
+* **Darren Case:** scene design and button programming
+* **Janice Bowles:** card design and button programming
+* **Ken Willes:** framework setup and programming, project management
 
 If you'd like to add more levels, a database and more, let me know. 
 
